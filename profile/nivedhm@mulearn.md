@@ -116,8 +116,6 @@ Long-Term Goals
 
 
 
-μLearn Profile Card
-https://cdn.discordapp.com/attachments/785543559054884875/1473737650203529317/greet.png?ex=6a34d7e4&is=6a338664&hm=d9c8845b34e817cb311fa1f6af16fa09545350929a60d071e7f57b48a5848127&
 
 Discord Username: nivedhm2402
 
@@ -126,4 +124,8 @@ Discord Username: nivedhm2402
 μLearn ID
 
 nivedhm@mulearn
+
+μLearn Profile Card
+https://cdn.discordapp.com/attachments/785543559054884875/1473737650203529317/greet.png?ex=6a34d7e4&is=6a338664&hm=d9c8845b34e817cb311fa1f6af16fa09545350929a60d071e7f57b48a5848127&
+
 
