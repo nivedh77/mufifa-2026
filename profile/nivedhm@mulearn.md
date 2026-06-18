@@ -120,4 +120,7 @@ I am interested in connecting with developers, cybersecurity enthusiasts, design
 
 #### Profile Card:
 
-https://cdn.discordapp.com/attachments/789476711867088967/1517201027735224350/rank.png?ex=6a356b11&is=6a341991&hm=785586c55c279d24fba6e92d07b0217993ebfa2175de0988e68864f255e8a927
+<img
+    src="https://mulearn.org/embed/rank/nivedhm@mulearn"
+    width="400px">
+</img>
