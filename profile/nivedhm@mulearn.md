@@ -1,131 +1,123 @@
-Nivedh M (IT Engineering Student & Aspiring Developer)
+# Nivedh M (IT Engineering Student & Aspiring Developer)
 
-Squad Domain: Coder | FIFA Nation: Argentina 🇦🇷
+### Squad Domain: Coder | FIFA Nation: Argentina
 
-
-
-About Me
+### About Me
 
 I am Nivedh M, a First-Year Information Technology Engineering student at Cochin University College of Engineering Kuttanad (CUCEK), CUSAT. I am passionate about technology, problem-solving, and continuous learning. My interests include Cyber Security, Backend Development, Python programming, and building practical software solutions.
 
-I actively participate in community-driven learning initiatives and enjoy collaborating with fellow learners through technical programs and challenges. Through μFIFA, I aim to strengthen my technical skills, contribute to open-source projects, expand my network, and grow as a developer.
+I actively participate in community-driven learning initiatives through μLearn and the Skill Development Club (SDC) at CUCEK. I enjoy collaborating with fellow learners, participating in technical programs, and exploring emerging technologies. Through μFIFA, I aim to strengthen my technical skills, contribute to open-source projects, expand my network, and grow as a developer while building meaningful proof of work.
 
+---
 
+## ⚽ FIFA World Cup Corner
 
-FIFA Section
+#### My Nation & Why:
 
-My Nation & Why
+I am representing Argentina 🇦🇷 in μFIFA. I chose Argentina because of its rich football history, passionate fanbase, and legendary players. Watching Lionel Messi lead Argentina to the 2022 FIFA World Cup title was one of the most memorable moments in football history for me.
 
-Argentina 🇦🇷
+#### Supporting Team in the Real World Cup 2026:
 
-Argentina has a rich football history, incredible passion for the sport, and has produced some of the greatest footballers of all time. Watching Argentina win the 2022 FIFA World Cup and seeing Lionel Messi lift the trophy remains one of my favorite football memories.
+I am supporting Argentina in the FIFA World Cup 2026 as well. My loyalty stays with Argentina because of their style of play, team spirit, and football culture.
 
-Supporting Team in the Real World Cup 2026
+#### All-Time Favourite Player:
 
-Argentina 🇦🇷
+Lionel Messi is my all-time favourite football player. His vision, consistency, leadership, humility, and achievements make him one of the greatest athletes in sports history.
 
-All-Time Favourite Player
+#### Best Player Right Now:
 
-Lionel Messi
+Michael Olise is one of the most exciting players in world football right now. At the same time, Lionel Messi continues to perform at an exceptional level despite his age, while Kylian Mbappé remains one of the most dangerous players in international football.
 
-Best Player Right Now
+#### Past World Cup Memories:
 
-Michael Olise is one of the most exciting players in world football right now. At the same time, Lionel Messi continues to perform at an extraordinary level, while Kylian Mbappé remains one of the most dominant players on the international stage.
+My favourite World Cup memory is Argentina winning the FIFA World Cup 2022 and Lionel Messi finally lifting the trophy after years of coming close. It was a historic moment that football fans around the world will never forget.
 
-Favorite World Cup Memory
+#### 2026 Predictions:
 
-Argentina winning the FIFA World Cup 2022 and Lionel Messi finally lifting the trophy after an unforgettable tournament.
+* Winner: Argentina
+* Dark Horse Team: Japan
+* Player Who Will Define The Tournament: Kylian Mbappé
+* Match I Am Most Looking Forward To: Argentina vs Brazil
 
-2026 Predictions
+#### μFIFA World Cup 2026 - Tournament Goals:
 
-- Winner: Argentina
-- Dark Horse: Japan
-- Player to Watch: Kylian Mbappé
+By the end of μFIFA, I want to improve my development skills, contribute to open-source projects, strengthen my GitHub profile, expand my professional network, and build meaningful projects that showcase my technical abilities.
 
+---
 
+## 🏅 Portfolio Highlights
 
-Portfolio Highlights
+#### History of Open Source and Collaborative Contributions:
 
-History of Open Source and Collaborative Contributions
+I am currently building my open-source journey through μLearn and community-driven projects. I have been learning Git and GitHub workflows and exploring opportunities to contribute to collaborative initiatives. Through μFIFA, I aim to make meaningful contributions and gain practical experience working with the open-source ecosystem.
 
-I am currently building my open-source journey through μLearn and community-driven projects. I enjoy collaborating with others, learning Git and GitHub workflows, and contributing to technical initiatives.
+#### History of Community Engagement:
 
-History of Community Engagement
+I am an active member of the Skill Development Club (SDC) at CUCEK and regularly participate in μLearn programs, workshops, challenges, and peer-learning activities. These experiences help me improve both my technical and professional skills while learning from a wider community.
 
-- Active member of the Skill Development Club (SDC), CUCEK.
-- Participant in μLearn activities and learning challenges.
-- Regularly engage in technical workshops, peer-learning sessions, and skill-building programs.
+#### Domain Profiles:
 
-Domain Profiles
+* GitHub: https://github.com/nivedh77
+* LinkedIn: https://www.linkedin.com/in/nivedh-m-a52754283
 
-- GitHub: https://github.com/nivedh77
-- LinkedIn: https://www.linkedin.com/in/nivedh-m-a52754283
+#### Tools, Workflows & Automations:
 
-Tools, Workflows & Automations
+* Python
+* HTML
+* CSS
+* GitHub
+* VS Code
+* Figma
+* Canva
+* ChatGPT
 
-- Python
-- HTML
-- CSS
-- GitHub
-- VS Code
-- Figma
-- Canva
+#### Public Portfolio & Recognition:
 
-Public Portfolio & Recognition
+I am currently working on building my portfolio through practical projects and community-driven initiatives.
 
-Projects
+**Projects:**
 
-SPENDORA – Student Budget Planner
+* SPENDORA – Student Budget Planner
+* Personal Portfolio Website
 
-- Student-focused budgeting and expense management application.
-- Built using web technologies and designed to help students manage finances effectively.
+I am also currently undergoing an internship focused on AI and emerging technologies, which is helping me gain practical exposure to modern development workflows.
 
-Education & Proof of Work
+#### Education and Proof of Work:
 
-B.Tech Information Technology
-
+**B.Tech Information Technology (First Year)**
 Cochin University College of Engineering Kuttanad (CUCEK), CUSAT
 
-Internship Experience
+GitHub: https://github.com/nivedh77
 
-Currently undergoing an internship focused on AI and emerging technologies, gaining practical exposure to modern development workflows and industry practices.
+LinkedIn: https://www.linkedin.com/in/nivedh-m-a52754283
 
-Leadership & Responsibility
+#### History of Leadership:
 
-- Member, Skill Development Club (SDC), CUCEK.
-- Active participant in community learning initiatives and collaborative projects.
+I am a member of the Skill Development Club (SDC), CUCEK, and actively participate in community learning initiatives. I enjoy helping peers, sharing resources, and contributing to collaborative activities whenever possible.
 
-Networking
+#### Networking:
 
-I am interested in connecting with developers, cybersecurity enthusiasts, designers, and learners who are passionate about technology and innovation.
+I am interested in connecting with developers, cybersecurity enthusiasts, designers, and learners from different institutions. Through μFIFA, I hope to collaborate with like-minded individuals, exchange ideas, and build valuable professional relationships.
 
-Career Plan
+#### Career Plan:
 
-Immediate Goals
+**Immediate:**
 
-- Strengthen Python and backend development skills.
-- Learn cybersecurity fundamentals and practical security concepts.
-- Contribute to open-source projects.
-- Build a stronger portfolio through real-world projects.
+* Strengthen Python and backend development skills
+* Learn cybersecurity fundamentals
+* Contribute to open-source projects
+* Build impactful real-world projects
+* Complete internships and gain practical experience
 
-Long-Term Goals
+**Long-term:**
 
-- Become a Backend Developer and Cyber Security Professional.
-- Build secure, scalable software systems.
-- Continuously contribute to developer communities and technical initiatives.
+* Become a Backend Developer and Cyber Security Professional
+* Build secure and scalable software systems
+* Continue contributing to developer communities
+* Work on innovative technology solutions that create real-world impact
 
+---
 
+#### Profile Card:
 
-
-Discord Username: nivedhm2402
-
-
-
-μLearn ID
-
-nivedhm@mulearn
-
-μLearn Profile Card
-https://cdn.discordapp.com/attachments/785543559054884875/1473737650203529317/greet.png?ex=6a34d7e4&is=6a338664&hm=d9c8845b34e817cb311fa1f6af16fa09545350929a60d071e7f57b48a5848127&
-
-
+https://cdn.discordapp.com/attachments/789476711867088967/1517201027735224350/rank.png?ex=6a356b11&is=6a341991&hm=785586c55c279d24fba6e92d07b0217993ebfa2175de0988e68864f255e8a927
